@@ -3,6 +3,6 @@ class Shoe
   attr_reader :condition
 
   def initialize
-    
+
   end
 end
